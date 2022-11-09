@@ -9,6 +9,8 @@ namespace ProyectMchs
     {
         static void Main(string[] args)
         {
+            int elDiablo;
+
         }
     }
 }
