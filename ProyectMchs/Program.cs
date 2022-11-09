@@ -12,6 +12,7 @@ namespace ProyectMchs
             int elDiablo;
             int queloque;
             int diache;
+            Console.WriteLine("julian");
 
         }
     }
